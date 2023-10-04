@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\bin\Debug\comboBoxKontrola.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\bin\Debug\comboBoxKontrola.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\bin\Debug\comboBoxKontrola.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.Form1.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\comboBoxKontrola\comboBoxKontrola\obj\Debug\comboBoxKontrola.pdb
